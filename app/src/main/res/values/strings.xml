@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskDvara</string>
+    <string name="check_internet_connection_try_again">Please check your internet connection and try again</string>
+    <string name="insert">Inserted</string>
+</resources>
